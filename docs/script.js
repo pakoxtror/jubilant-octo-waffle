@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
+  //Flores tooltip
   const flores = document.querySelectorAll(".flower");
   const frases = [
     "Si pudiera, te regalaría un campo lleno de flores amarillas, pero por ahora, espero que este pequeño ramo te recuerde cuánto iluminas mi vida y cuánto me divierto a tu lado.",
